@@ -46,5 +46,5 @@ R · Power BI · Excel / CSV
 ---
 
 📌 *Proyecto académico y personal enfocado en la práctica de análisis y visualización de datos deportivos.*  
-👉 [Ver resumen y contexto en Notion](https://tuenlaceanotion.com)
+👉 [Ver resumen y contexto en Notion](https://www.notion.so/Portfolio-de-Alejandro-6e1093c6146a4f648263a4f243777c60?source=copy_link)
 
